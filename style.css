@@ -1,0 +1,49 @@
+
+header {
+	height: 100px;
+}
+#heading {
+	font-size: 50pt;
+	color: olive;
+	text-align: center;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+section {
+	height: 55px;
+}
+h2 {
+	text-align: center;
+}
+a {
+	text-align: center;
+	display: block;
+}
+body
+{
+	background-image:url(1.jpg);
+	background-repeat:no-repeat;
+   
+    background-size: cover;  
+	background-attachment: fixed;
+	background-position:center;
+	background: blur(5px);
+	
+} 
+
+#p1
+{
+	color:#0099ff;
+	font-size: 35pt;
+}
+#p2
+{
+	color : #ff9966;
+	font-size:30pt;
+}
+#p3
+{
+	color:#ff9966;
+	font-size:30pt;
+}
